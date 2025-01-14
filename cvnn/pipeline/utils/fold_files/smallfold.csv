@@ -1,0 +1,11 @@
+scene_id,Fold_1,Fold_2,Fold_3,Fold_4,Fold_5
+5c3d986db930f848v,train,train,train,train,validation
+cdc04ca397865356v,train,train,train,train,test
+eeddcc0db3cff0d8v,train,train,train,validation,train
+a6073537a4ea5fb9v,train,train,train,test,train
+f9eb760aaf6e798dv,train,train,validation,train,train
+cd36e75010a021f7v,train,train,test,train,train
+844545c005776fb1v,train,validation,train,train,train
+8204efcfe9f09f94v,train,test,train,train,train
+a1a21a222e244555v,validation,train,train,train,train
+3fe00bf7beab8812v,test,train,train,train,train
